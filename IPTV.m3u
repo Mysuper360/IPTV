@@ -1,5 +1,4 @@
-#EXTM3U url-tvg="https://git.io/Jkleu"
-# 香港頻道
+#EXTM3U 
 #EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="https://rb.gy/e83tun" tvg-name="有線新聞" group-title="香港頻道",有線新聞台
 http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="https://rb.gy/gxr0zk" tvg-name="有線財經資訊" group-title="香港頻道",有線財經資訊台
@@ -54,7 +53,6 @@ http://112.17.40.139/PLTV/88888888/224/3221226368/index.m3u8?
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 
 #EXTM3U
-# 澳門頻道
 #EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/by4mta" group-title="澳門頻道",澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://rb.gy/fzuurv" group-title="澳門頻道",澳視體育
@@ -91,7 +89,6 @@ http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 http://103.130.186.138:8800/oxygenplay/lotusmacau/index.m3u8
 
 #EXTM3U
-# 電影頻道
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="粵語影片1" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" tvg-country="HK" tvg-url="" group-title="電影頻道",粵語影片1
 https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/614163/live_342827840_74242052.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="粵語影片2" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" tvg-country="HK" tvg-url="" group-title="電影頻道",粵語影片2
@@ -480,8 +477,8 @@ http://sousou2.top/dl/yy1.php?t=88229675
 http://sousou2.top/dl/yy1.php?t=1351433593
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" group-title="電影頻道",YY 129
 http://sousou2.top/dl/yy1.php?t=1351461341  
+
 #EXTM3U
-# 台灣頻道
 #EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" tvg-name="TVBS 新闻台" group-title="台灣頻道",TVBS新聞
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/東森財經新聞.png" tvg-name="東森財經新聞台" group-title="台灣頻道",東森財經新聞台
@@ -584,7 +581,6 @@ http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10304
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1200_av-p.m3u8
 
 #EXTM3U
-# 日本頻道
 #EXTINF:-1 tvg-id="N24.JP" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" group-title="日本頻道",日テレNEWS24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 tvg-id="902" tvg-name="" tvg-logo="" tvg-logo="https://static.epg.best/jp/TBSNews.jp.png" group-title="日本頻道",TBS News
@@ -707,8 +703,8 @@ http://1111296894.rsc.cdn77.org/ls-54548-1/tracks-v1a1/mono.m3u8
 http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zIjiEQa.png" group-title="歐美頻道",itv
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+
 #EXTM3U
-# 新馬頻道
 #EXTINF:-1 tvg-ID="" tvg-logo="https://video.toggle.sg/image/11392878/16x9/947/533/136b251885c179748ce154d52f50a25f/nm/cna.png" group-title="新馬頻道",亞洲新聞台(CNA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="新馬頻道",TV1
