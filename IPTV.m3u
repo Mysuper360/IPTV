@@ -7,6 +7,16 @@ http://livetv.dnsfor.me/channel.6.m3u8
 http://livetv.dnsfor.me/channel.7.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="YZB.HK" tvg-name="有線直播新聞台" tvg-logo="https://rb.gy/os4eh1" ,有線直播新聞台
 http://teslagram.com/live/channel_110.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="有線高清603台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/26/Hd_603_logo.png" ,有線高清603台
+http://iptv.tvbox543.com/ublive.php?cid=398
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="有線18台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png" ,有線18台
+http://iptv.tvbox543.com/ublive.php?cid=44
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="有線Sports Plus 1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png" ,有線Sports Plus 1
+http://iptv.tvbox543.com/ublive.php?cid=401
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="有線Sports Plus 2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png" ,有線Sports Plus 2
+http://iptv.tvbox543.com/ublive.php?cid=356
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://cdn130.picsart.com/292076939008211.png?type=webp&to=min&r=640" ,有線電影台
+http://iptv.tvbox543.com/ublive.php?cid=354
 #EXTINF:-1 group-title="香港頻道" tvg-id="KAI.HK" tvg-name="開電視" tvg-logo="https://rb.gy/apxvr7" ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-name="Now直播台" tvg-logo="https://rb.gy/kshrvf" ,Now直播台
@@ -19,6 +29,8 @@ http://teslagram.com/live/channel_630.m3u8
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 group-title="香港頻道" tvg-id="V96.HK" tvg-name="ViuTV 6" tvg-logo="https://rb.gy/po9v07" ,ViuTV 6
 http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 group-title="香港頻道" tvg-name="Now爆谷台" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" ,Now爆谷台
+http://iptv.tvbox543.com/ublive.php?cid=152
 #EXTINF:-1 group-title="香港頻道" tvg-name="港台電視31" tvg-logo="https://rb.gy/pqjvze" ,港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-name="港台電視32" tvg-logo="https://rb.gy/jacmtb" ,港台電視32
@@ -32,13 +44,19 @@ http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="WXC.HK" tvg-name="無線財經" tvg-logo="https://rb.gy/fwgmsk" ,無綫財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="FC2.HK" tvg-name="翡翠J2台" tvg-logo="https://rb.gy/cawsmu" ,J2台
-http://61.238.6.49:8001/bysid/82
+http://iptv.tvbox543.com/ublive.php?cid=392
 #EXTINF:-1 group-title="香港頻道" tvg-id="FCT.HK" tvg-name="翡翠台" tvg-logo="https://rb.gy/x4jaqz" ,翡翠台
-http://61.238.6.49:8001/bysid/1
+http://iptv.tvbox543.com/ublive.php?cid=390
 #EXTINF:-1 group-title="香港頻道" tvg-id="MZT.HK" tvg-name="明珠台" tvg-logo="https://rb.gy/khz3hv" ,明珠台
-http://61.238.6.49:8001/bysid/2
+http://iptv.tvbox543.com/ublive.php?cid=391
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="TVB星河台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" ,TVB星河台
+http://iptv.tvbox543.com/ublive.php?cid=1079
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="TVB經典台" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq8_RLTNNALv5TBfZUOIIZW945Wc_jK8AQWo4HJQnwclzBeAbBEECz7WRwTvFYU_EOo4447G-PQQQ0GcrBzyrUQdHi_9emhvPr&usqp=CAU&ec=45750088" ,TVB經典台
+http://iptv.tvbox543.com/ublive.php?cid=1083
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="TVB華麗台" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Astro_wah_lai_toi.png/revision/latest/scale-to-width-down/600?cb=20181121061314" ,TVB華麗台
+http://iptv.tvbox543.com/ublive.php?cid=1084
 #EXTINF:-1 group-title="香港頻道" tvg-logo="https://rb.gy/3yanoy" ,C+頻道
-*http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
+
 #EXTINF:-1 group-title="香港頻道" tvg-name="耀才財經台" tvg-logo="https://rb.gy/kjnpq5" ,耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="FHJ.CN" tvg-name="鳳凰資訊" tvg-logo="https://rb.gy/pmlf2f" ,鳳凰衛視資訊台
@@ -88,6 +106,8 @@ http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 http://103.130.186.138:8800/oxygenplay/lotusmacau/index.m3u8
 
 #EXTM3U
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://cdn130.picsart.com/292076939008211.png?type=webp&to=min&r=640" ,有線電影台
+http://iptv.tvbox543.com/ublive.php?cid=354
 #EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片1
 https://d1--ov-gotcha04.bilivideo.com/live-bvc/808627/live_88547185_8335137_1500.flv?expires=1608659643&len=0&oi=3420067707&pt=web&qn=150&trid=16371490ded14830a868dddb7a9ce39f&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha04&sign=d3072f5103e0535a54c67594be9f497a&p2p_type=0&src=5&sl=1&platform=web&pSession=xzM24K5x-z8hC-4ksP-2CXi-bHF0c3p9Bxne
 #EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片1.1
