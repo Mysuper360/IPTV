@@ -24,7 +24,7 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-name="港台電視32" tvg-logo="https://rb.gy/jacmtb" ,港台電視32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-name="港台電視33" audio-track="eng" tvg-logo="https://rb.gy/0rw9zh" ,港台電視33
-corrupt/empty
+
 #EXTINF:-1 group-title="香港頻道" tvg-name="港台電視新聞直播" tvg-logo="https://rb.gy/8vzhqs" ,港台電視新聞直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="WXX.HK" tvg-name="無線新聞" tvg-logo="https://rb.gy/vpbeyy" ,無綫新聞台
@@ -48,7 +48,7 @@ http://livetv.dnsfor.me/channel.16.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-name="ATV香港追擊搜" tvg-logo="https://rb.gy/po7oqt" ,ATV香港追擊搜
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-name="鳳凰中文" tvg-logo="https://rb.gy/xdxgr1" ,鳳凰衛視中文台
-http://112.17.40.139/PLTV/88888888/224/3221226368/index.m3u8?
+http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-logo="https://rb.gy/opr7sq" ,創世電視
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 #EXTM3U
@@ -59,7 +59,7 @@ http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="澳門頻道" tvg-logo="https://rb.gy/yh3ycl" ,澳視高清
 http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
 #EXTINF:-1 group-title="澳門頻道" tvg-logo="https://rb.gy/3wfzvv" ,澳門蓮花
-corrupt/empty
+
 #EXTINF:-1 group-title="澳門頻道" tvg-logo="https://rb.gy/lppuwz" ,澳視澳門台
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 #EXTINF:-1 group-title="澳門頻道" tvg-logo="https://rb.gy/4g07sx" ,澳視綜藝
@@ -87,13 +87,21 @@ http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 #EXTINF:-1 group-title="澳門頻道" tvg-logo="https://rb.gy/cypcpd" ,Lotus Macau
 http://103.130.186.138:8800/oxygenplay/lotusmacau/index.m3u8
 
-#EXTM3U 
+#EXTM3U
 #EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片1
-https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/614163/live_342827840_74242052.m3u8
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片2
+https://d1--ov-gotcha04.bilivideo.com/live-bvc/808627/live_88547185_8335137_1500.flv?expires=1608659643&len=0&oi=3420067707&pt=web&qn=150&trid=16371490ded14830a868dddb7a9ce39f&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=ov-gotcha04&sign=d3072f5103e0535a54c67594be9f497a&p2p_type=0&src=5&sl=1&platform=web&pSession=xzM24K5x-z8hC-4ksP-2CXi-bHF0c3p9Bxne
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片1.1
 https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/933996/live_88547185_8335137.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-name="Now爆谷台" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" ,Now爆谷台
-https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片2
+http://cdn.chxjon.cn/bolt/youku.php?id=yueyutt
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片3
+http://cdn.chxjon.cn/bolt/bilibili.php?id=21470455
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片4
+https://hls3a-akm.douyucdn.cn/live/1226741rhGrFpPMV/playlist.m3u8?wsAuth=4708413baa20d3e28230f252c54b8949&token=web-h5-0-1226741-0dc52b22d0295689bd638b4f3a787d2252b33aa5eb54cc6d&logo=0&expire=0&did=fcda63762ded77b3e5c0b2ae00061601&ver=Douyu_220122205&pt=2&st=0&origin=tct&mix=0&isp=
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片5
+https://hls3-akm.douyucdn.cn/live/6566671rDq8f2jtE/playlist.m3u8?wsAuth=eb98f0a63d711b2811c75bd397991f96&token=web-h5-0-6566671-e1f409a777b7d4967aa45a6df4de87999ba6b15ffbb7fd5e&logo=0&expire=0&did=fcda63762ded77b3e5c0b2ae00061601&ver=Douyu_220122205&pt=2&st=0&origin=tct&mix=0&isp=
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片6
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/614163/live_342827840_74242052.m3u8
 #EXTINF:-1 group-title="電影頻道" tvg-id="TYP.Asia" tvg-name="天映頻道" tvg-logo="https://rb.gy/wvmwnw" ,天映頻道
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 group-title="電影頻道" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg" ,HBO
@@ -176,21 +184,17 @@ http://117.148.187.83/PLTV/88888888/224/3221226245/index.m3u8
 http://117.148.187.83/PLTV/88888888/224/3221226178/index.m3u8
 #EXTINF:-1 group-title="電影頻道" ,電影7HD
 http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-name="Now爆谷台" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" ,Now爆谷台
+https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
 #EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影1
-http://666.stop.kim/douyu.php?id=122402
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影2
 http://666.stop.kim/douyu.php?id=218859
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影3
+#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影2
 http://666.stop.kim/douyu.php?id=252802
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影4
+#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影3
 http://666.stop.kim/douyu.php?id=20415
+#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影4
+http://666.stop.kim/douyu.php?id=248753
 #EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影5
-http://666.stop.kim/douyu.php?id=248753
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影6
-http://666.stop.kim/douyu.php?id=248753
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影7
-http://666.stop.kim/douyu.php?id=248753
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影8
 http://666.stop.kim/douyu.php?id=36337
 #EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影6
 http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_4000p.flv
@@ -453,11 +457,11 @@ http://sousou2.top/dl/yy1.php?t=31058047
 #EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 129
 http://sousou2.top/dl/yy1.php?t=1351461341  
 #EXTM3U
-#EXTINF:-1 group-title="台湾" tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" ,TVBS新聞
+#EXTINF:-1 group-title="台灣頻道" tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" ,TVBS新聞
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-#EXTINF:-1 group-title="台湾" tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" ,東森新聞
+#EXTINF:-1 group-title="台灣頻道" tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" ,東森新聞
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="台湾" tvg-id="DLC.TW" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" ,東森財經新聞
+#EXTINF:-1 group-title="台灣頻道" tvg-id="DLC.TW" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png" ,東森財經新聞
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-id="HSX.TW" tvg-name="華視新聞台" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/华视新闻资讯.png" ,華視新聞台
 http://seb.sason.top/sc/hsxw_fhd.m3u8
@@ -475,7 +479,7 @@ http://seb.sason.top/sc/zsxw_fhd.m3u8
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-name="壹電視新聞台" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/壹新闻.png" ,壹電視新聞台
 http://stream.nexttv.com.tw/n001/hd/live.m3u8
-#EXTINF:-1 group-title="台湾" tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" ,民視新聞台
+#EXTINF:-1 group-title="台灣頻道" tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" ,民視新聞台HD
 http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:-1 group-title="台灣頻道" tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" ,HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
@@ -903,41 +907,41 @@ http://140.238.16.178:9876/stream/channelid/660845242
 
 #EXTM3U 
 #EXTINF:-1 group-title="央視頻道" tvg-id="CT1.CN" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV1.png" ,CCTV-1 綜合
-http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="CT2.CN" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV2.png" ,CCTV-2 財經
-http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="CT3.CN" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV3.png" ,CCTV-3 綜藝
-http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="CT4.CN" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV4.png" ,CCTV-4 中文國際
 http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="CT5.CN" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV5.png" ,CCTV-5 體育
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="CP5.CN" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV5+.png" ,CCTV-5+ 體育賽事
-http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="CT6.CN" tvg-name="CCTV-6" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV6.png" ,CCTV-6 電影
-http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="CT7.CN" tvg-name="CCTV-7" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV7.png" ,CCTV-7 國防軍事
-http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="CT8.CN" tvg-name="CCTV-8" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV8.png" ,CCTV-8 電視劇
-http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="CT9.CN" tvg-name="CCTV-9" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV9.png" ,CCTV-9 紀錄
-http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="C10.CN" tvg-name="CCTV-10" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV10.png" ,CCTV-10 科教
-
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="C11.CN" tvg-name="CCTV-11" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV11.png" ,CCTV-11 戲曲
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="C12.CN" tvg-name="CCTV-12" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV12.png" ,CCTV-12 社會與法
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225932/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="C13.CN" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV13.png" ,CCTV-13 新聞
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
+http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="央視頻道" tvg-id="C14.CN" tvg-name="CCTV-14" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV14.png" ,CCTV-14 少兒
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225933/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="C15.CN" tvg-name="CCTV-15" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV15.png" ,CCTV-15 音樂
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
+http://39.134.157.199/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-id="C17.CN" tvg-name="CCTV-17" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CCTV17.png" ,CCTV-17 農業農村
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226986/index.m3u8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-name="CCTV 4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" ,CCTV-4K 超高清
-https://hls.cntv.baishancdnx.cn/asp/hls/8000/0303000a/3/default/657560c18f52425d901976e7684fba1f/8000.m3u8
+http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-name="CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" ,CETV-1
 http://39.130.206.213:6410/gitv_live/G_CETV-1-HD/G_CETV-1-HD.m3u8
 #EXTINF:-1 group-title="央視頻道" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/CGTN英語.png" ,CGTN
