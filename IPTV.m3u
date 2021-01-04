@@ -26,7 +26,7 @@ http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="NOP.HK" tvg-name="Now Sports 精選" tvg-logo="http://epg.cms.now-tv.com/iphone/channelLogo/ch630.pnghttps://rb.gy/8cpcyd" ,Now Sports 精選
 http://teslagram.com/live/channel_630.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-name="Now爆谷台" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" ,Now爆谷台
-http://f10.pp16000.com/live/152/cbd58cf03a580395dd72e012ef0379e7/index.m3u8
+
 #EXTINF:-1 group-title="香港頻道" tvg-id="V99.HK" tvg-name="ViuTV" tvg-logo="https://rb.gy/ftgamq" ,ViuTV
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 group-title="香港頻道" tvg-id="V96.HK" tvg-name="ViuTV 6" tvg-logo="https://rb.gy/po9v07" ,ViuTV 6
@@ -106,24 +106,90 @@ http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 http://103.130.186.138:8800/oxygenplay/lotusmacau/index.m3u8
 
 #EXTM3U
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://cdn130.picsart.com/292076939008211.png?type=webp&to=min&r=640" ,有線電影台
-
-#EXTINF:-1 group-title="電影頻道" tvg-name="Now爆谷台" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" ,Now爆谷台
-http://f10.pp16000.com/live/152/cbd58cf03a580395dd72e012ef0379e7/index.m3u8
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片1
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/lee1ed",粵語殘片
 https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/933996/live_88547185_8335137.m3u8
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片2
-http://cdn.chxjon.cn/bolt/youku.php?id=yueyutt
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片3
-http://cdn.chxjon.cn/bolt/bilibili.php?id=21470455
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片4
-https://hls3a-akm.douyucdn.cn/live/1226741rhGrFpPMV/playlist.m3u8?wsAuth=4708413baa20d3e28230f252c54b8949&token=web-h5-0-1226741-0dc52b22d0295689bd638b4f3a787d2252b33aa5eb54cc6d&logo=0&expire=0&did=fcda63762ded77b3e5c0b2ae00061601&ver=Douyu_220122205&pt=2&st=0&origin=tct&mix=0&isp=
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片5
-https://hls3-akm.douyucdn.cn/live/6566671rDq8f2jtE/playlist.m3u8?wsAuth=eb98f0a63d711b2811c75bd397991f96&token=web-h5-0-6566671-e1f409a777b7d4967aa45a6df4de87999ba6b15ffbb7fd5e&logo=0&expire=0&did=fcda63762ded77b3e5c0b2ae00061601&ver=Douyu_220122205&pt=2&st=0&origin=tct&mix=0&isp=
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" ,粵語影片6
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/lee1ed" ,粵語影片1
 https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/614163/live_342827840_74242052.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/lee1ed" ,粵語影片2
+https://d1--ov-gotcha06.bilivideo.com/live-bvc/862664/live_118755328_48933510.flv?cdn=ov-gotcha06&expires=1609744200&len=0&oi=3706842163&pt=flash&qn=10000&trid=60ae5aef6e6f42039c2b9b7425bf4b78&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=a471edc443f88833d560b6e7c8004f0c&ptype=0&src=9&sl=1&order=1&platform=flash&pSession=88F522E1-7D5C-9D4F-1A8A-A2A81326112E
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/lee1ed" ,粵語影片3
+https://cn-zjwz-dx-live-01.bilivideo.com/live-bvc/182400/live_118755328_48933510_1500.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/lee1ed" ,粵語影片4
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/614163/live_342827840_74242052.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/mafadh" ,海爺2廳 國外大片
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/211012/live_52370715_1734265.m3u8 
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/mafadh" ,海爺3廳
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8 
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/mafadh" ,海爺4廳 動畫電影
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8 
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/mafadh" ,海爺5廳
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8 
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/mafadh" ,海爺6廳
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8 
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/mafadh" ,海爺7廳
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/243318/live_261831479_8429255.m3u8 
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/mafadh" ,海爺8廳
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8 
+#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影1
+http://666.stop.kim/douyu.php?id=218859
+#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影2
+http://666.stop.kim/douyu.php?id=252802
+#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影3
+http://666.stop.kim/douyu.php?id=20415
+#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影4
+http://666.stop.kim/douyu.php?id=248753
+#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影5
+http://666.stop.kim/douyu.php?id=36337
+#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影6
+http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_4000p.flv
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 1
+http://39.134.182.236/PLTV/88888888/224/3221226245/index.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 2
+http://39.134.182.236/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 3
+http://39.134.182.236/PLTV/88888888/224/3221226179/index.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 4
+http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 5
+http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 6
+http://39.134.116.30:8080/PLTV/88888910/224/3221225712/index.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 7
+http://39.134.116.30:8080/PLTV/88888910/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="電影頻道" ,峨嵋山影視
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
+#EXTINF:-1 group-title="電影頻道" ,香港電影1
+http://tx2play1.douyucdn.cn/live/315457r0LsXadyku_2000.flv
+#EXTINF:-1 group-title="電影頻道" ,香港電影2
+http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
+#EXTINF:-1 group-title="電影頻道" ,精彩電影高清2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="電影頻道" ,CHC高清電影2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 group-title="電影頻道" ,CHC動作電影2K
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="電影頻道" ,黃渤
+http://tv.rdys888.top/bak/proxy/youku.php?id=8021910
+#EXTINF:-1 group-title="電影頻道" ,劉德華
+http://170.178.163.226:5000/huya/11342424
+#EXTINF:-1 group-title="電影頻道" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ssdy.png" ,邵氏電影
+http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
+#EXTINF:-1 group-title="電影頻道" ,電影2HD
+http://117.148.187.83/PLTV/88888888/224/3221226245/index.m3u8
+#EXTINF:-1 group-title="電影頻道" ,電影3HD
+http://117.148.187.83/PLTV/88888888/224/3221226178/index.m3u8
 #EXTINF:-1 group-title="電影頻道" tvg-id="TYP.Asia" tvg-name="天映頻道" tvg-logo="https://rb.gy/wvmwnw" ,天映頻道
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-name="KK金馬影院" ,KK金馬影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-name="KiD電影1台"  tvg-logo="" ,KiD電影1台
+http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="電影頻道" tvg-name="KiD電影2台"  tvg-logo="" ,KiD電影2台
+http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="電影頻道" tvg-logo="",經典港片系列
+https://tx.liveplay.live.kugou.com/live/fx_hifi_1640924_avc.m3u8
+#EXTINF:-1 group-title="電影頻道" tvg-logo="",經典影視
+https://tx.liveplay.live.kugou.com/live/fx_hifi_251702616_avc.m3u8
 #EXTINF:-1 group-title="電影頻道" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg" ,HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 group-title="電影頻道" tvg-id="Hbh.Asia" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg" ,HBO Hits
@@ -158,324 +224,12 @@ http://178.217.72.66/225.201.2.76/video.m3u8
 http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
 #EXTINF:-1 group-title="電影頻道" tvg-logo="https://i.imgur.com/NcbB0IH.png" ,ULTRA REX 4K
 http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/playlist.m3u8?utcstart=1572789600&version=2
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 1
-http://39.134.182.236/PLTV/88888888/224/3221226245/index.m3u8
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 2
-http://39.134.182.236/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 3
-http://39.134.182.236/PLTV/88888888/224/3221226179/index.m3u8
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 4
-http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" ,影視 5
-http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 group-title="電影頻道" ,貝爺影廳
-http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_2000.flv
-#EXTINF:-1 group-title="電影頻道" tvg-name="KK金馬影院" ,KK金馬影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="電影頻道" ,峨嵋山影視
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
-#EXTINF:-1 group-title="電影頻道" ,亞洲影院
-http://125.210.152.21:9120/live/YZYY.m3u8
-#EXTINF:-1 group-title="電影頻道" ,香港電影1
-http://tx2play1.douyucdn.cn/live/315457r0LsXadyku_2000.flv
-#EXTINF:-1 group-title="電影頻道" ,香港電影2
-http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:-1 group-title="電影頻道" ,香港電影3
-http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
-#EXTINF:-1 group-title="電影頻道" ,開心影院
-http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:-1 group-title="電影頻道" ,精彩電影高清2K
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="電影頻道" ,CHC高清電影2K
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="電影頻道" ,CHC動作電影2K
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="電影頻道" ,成龍
-http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:-1 group-title="電影頻道" ,黃渤
-http://tv.rdys888.top/bak/proxy/youku.php?id=8021910
-#EXTINF:-1 group-title="電影頻道" ,劉德華
-http://170.178.163.226:5000/huya/11342424
-#EXTINF:-1 group-title="電影頻道" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/ssdy.png" ,邵氏電影
-http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
-#EXTINF:-1 group-title="電影頻道" ,電影2HD
-http://117.148.187.83/PLTV/88888888/224/3221226245/index.m3u8
-#EXTINF:-1 group-title="電影頻道" ,電影3HD
-http://117.148.187.83/PLTV/88888888/224/3221226178/index.m3u8
-#EXTINF:-1 group-title="電影頻道" ,電影7HD
-http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-name="Now爆谷台" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" ,Now爆谷台
 https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影1
-http://666.stop.kim/douyu.php?id=218859
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影2
-http://666.stop.kim/douyu.php?id=252802
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影3
-http://666.stop.kim/douyu.php?id=20415
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影4
-http://666.stop.kim/douyu.php?id=248753
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影5
-http://666.stop.kim/douyu.php?id=36337
-#EXTINF:-1 group-title="電影頻道" tvg-logo="rb.gy/zitepy" ,鬥魚電影6
-http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_4000p.flv
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 1
-http://sousou2.top/dl/yy1.php?t=29900720
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 2
-http://sousou2.top/dl/yy1.php?t=37758710
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 3
-http://sousou2.top/dl/yy1.php?t=1353881242
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 4
-http://sousou2.top/dl/yy1.php?t=14503914
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 5
-http://sousou2.top/dl/yy1.php?t=32110908
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 6
-http://sousou2.top/dl/yy1.php?t=38525272
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 7
-http://sousou2.top/dl/yy1.php?t=34811100
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 8
-http://sousou2.top/dl/yy1.php?t=1351755386
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 9
-http://sousou2.top/dl/yy1.php?t=1353074059
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 10
-http://sousou2.top/dl/yy1.php?t=1353507954
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 11
-http://sousou2.top/dl/yy1.php?t=77869868
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 12
-http://sousou2.top/dl/yy1.php?t=1352904942
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 13
-http://sousou2.top/dl/yy1.php?t=1352843113
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 14
-http://sousou2.top/dl/yy1.php?t=1420843376
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 15
-http://sousou2.top/dl/yy1.php?t=31100550
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 16
-http://sousou2.top/dl/yy1.php?t=28751126
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 17
-http://sousou2.top/dl/yy1.php?t=24066336
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 18
-http://sousou2.top/dl/yy1.php?t=1352227153
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 19
-http://sousou2.top/dl/yy1.php?t=39589923
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 20
-http://sousou2.top/dl/yy1.php?t=1382658857
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 21
-http://sousou2.top/dl/yy1.php?t=28996058
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 22
-http://sousou2.top/dl/yy1.php?t=1382646395
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 23
-http://sousou2.top/dl/yy1.php?t=1351814644
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 24
-http://sousou2.top/dl/yy1.php?t=1352952473
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 25
-*http://sousou2.top/dl/yy1.php?t=26650882
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 26
-*http://sousou2.top/dl/yy1.php?t=28265277
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 27
-http://sousou2.top/dl/yy1.php?t=33519757
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 28
-http://sousou2.top/dl/yy1.php?t=1351762426
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 29
-http://sousou2.top/dl/yy1.php?t=1331053117
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 30
-http://sousou2.top/dl/yy1.php?t=1382660045
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 31
-http://sousou2.top/dl/yy1.php?t=29216766
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 32
-http://sousou2.top/dl/yy1.php?t=22039119
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 33
-http://sousou2.top/dl/yy1.php?t=37228835
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 34
-http://sousou2.top/dl/yy1.php?t=49259936
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 35
-http://sousou2.top/dl/yy1.php?t=1353059120
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 36
-http://sousou2.top/dl/yy1.php?t=36221298
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 37
-http://sousou2.top/dl/yy1.php?t=35467265
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 38
-http://sousou2.top/dl/yy1.php?t=30918390
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 39
-http://sousou2.top/dl/yy1.php?t=1352677541
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 40
-http://sousou2.top/dl/yy1.php?t=1353685311
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 41
-http://sousou2.top/dl/yy1.php?t=34460526
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 42
-http://sousou2.top/dl/yy1.php?t=23206872
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 43
-*http://sousou2.top/dl/yy1.php?t=79049030
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 44
-http://sousou2.top/dl/yy1.php?t=29958059
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 45
-http://sousou2.top/dl/yy1.php?t=1353314294
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 46
-*http://sousou2.top/dl/yy1.php?t=1351505899
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 47
-http://sousou2.top/dl/yy1.php?t=23120006
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 48
-http://sousou2.top/dl/yy1.php?t=35133142
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 49
-http://sousou2.top/dl/yy1.php?t=37988782
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 50
-http://sousou2.top/dl/yy1.php?t=21090129
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 51
-*http://sousou2.top/dl/yy1.php?t=27772604
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 52
-http://sousou2.top/dl/yy1.php?t=35285823
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 53
-http://sousou2.top/dl/yy1.php?t=1393837072
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 54
-http://sousou2.top/dl/yy1.php?t=31809939
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 55
-http://sousou2.top/dl/yy1.php?t=25560981
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 56
-http://sousou2.top/dl/yy1.php?t=23870569
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 57
-*http://sousou2.top/dl/yy1.php?t=28882933
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 58
-http://sousou2.top/dl/yy1.php?t=28205255
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 59
-http://sousou2.top/dl/yy1.php?t=1350998397
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 60
-http://sousou2.top/dl/yy1.php?t=42932063
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 61
-http://sousou2.top/dl/yy1.php?t=35325313
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 62
-http://sousou2.top/dl/yy1.php?t=38650266
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 63
-http://sousou2.top/dl/yy1.php?t=1352469735
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 64
-http://sousou2.top/dl/yy1.php?t=1353312849
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 65
-http://sousou2.top/dl/yy1.php?t=1353426319
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 66
-http://sousou2.top/dl/yy1.php?t=32140089
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 67
-http://sousou2.top/dl/yy1.php?t=30667538
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 68
-http://sousou2.top/dl/yy1.php?t=1352227227
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 69
-http://sousou2.top/dl/yy1.php?t=40915353
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 70
-http://sousou2.top/dl/yy1.php?t=1353587611
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 71
-http://sousou2.top/dl/yy1.php?t=1353177492
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 72
-http://sousou2.top/dl/yy1.php?t=1353085648
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 73
-http://sousou2.top/dl/yy1.php?t=1351074342
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 74
-*http://sousou2.top/dl/yy1.php?t=10425097
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 75
-http://sousou2.top/dl/yy1.php?t=1350670730
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 76
-http://sousou2.top/dl/yy1.php?t=37877178
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 77
-http://sousou2.top/dl/yy1.php?t=36377960
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 78
-http://sousou2.top/dl/yy1.php?t=30804490
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 79
-http://sousou2.top/dl/yy1.php?t=36949900
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 80
-http://sousou2.top/dl/yy1.php?t=23681346
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 81
-http://sousou2.top/dl/yy1.php?t=79382500
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 82
-http://sousou2.top/dl/yy1.php?t=1352965544
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 83
-http://sousou2.top/dl/yy1.php?t=39204655
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 84
-http://sousou2.top/dl/yy1.php?t=1352216562
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 85
-*http://sousou2.top/dl/yy1.php?t=24686090
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 86
-http://sousou2.top/dl/yy1.php?t=1352906405
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 87
-http://sousou2.top/dl/yy1.php?t=1351428836
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 88
-*http://sousou2.top/dl/yy1.php?t=25519088
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 89
-http://sousou2.top/dl/yy1.php?t=27289502
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 90
-http://sousou2.top/dl/yy1.php?t=28099939
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 91
-*http://sousou2.top/dl/yy1.php?t=1331686180
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 92
-http://sousou2.top/dl/yy1.php?t=1352356194
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 93
-http://sousou2.top/dl/yy1.php?t=31292828
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 94
-http://sousou2.top/dl/yy1.php?t=1351844200
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 95
-http://sousou2.top/dl/yy1.php?t=1352875014
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 96
-http://sousou2.top/dl/yy1.php?t=95017956
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 97
-http://sousou2.top/dl/yy1.php?t=1335509613
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 98
-http://sousou2.top/dl/yy1.php?t=36912445
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 99
-http://sousou2.top/dl/yy1.php?t=30510265
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 100
-*http://sousou2.top/dl/yy1.php?t=25055036
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 101
-http://sousou2.top/dl/yy1.php?t=1350562684
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 102
-http://sousou2.top/dl/yy1.php?t=1352475619
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 103
-*http://sousou2.top/dl/yy1.php?t=24407222
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 104
-http://sousou2.top/dl/yy1.php?t=22059534
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 105
-http://sousou2.top/dl/yy1.php?t=10425098
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 106
-http://sousou2.top/dl/yy1.php?t=26870427
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 107
-http://sousou2.top/dl/yy1.php?t=1353455515
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 108
-*http://sousou2.top/dl/yy1.php?t=1352487950
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 109
-*http://sousou2.top/dl/yy1.php?t=33453966
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 110
-http://sousou2.top/dl/yy1.php?t=36171593
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 111
-http://sousou2.top/dl/yy1.php?t=1353518742
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 112
-http://sousou2.top/dl/yy1.php?t=1353098382
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 113
-http://sousou2.top/dl/yy1.php?t=1351052509
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 114
-http://sousou2.top/dl/yy1.php?t=26664495
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 115
-http://sousou2.top/dl/yy1.php?t=1351066072
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 116
-*http://sousou2.top/dl/yy1.php?t=37708809
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 117
-http://sousou2.top/dl/yy1.php?t=22777075
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 118
-*http://sousou2.top/dl/yy1.php?t=1351086880
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 119
-http://sousou2.top/dl/yy1.php?t=69304980
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 120
-http://sousou2.top/dl/yy1.php?t=1353103539
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 121
-*http://sousou2.top/dl/yy1.php?t=24208878
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 122
-http://sousou2.top/dl/yy1.php?t=1353392400
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 123
-http://sousou2.top/dl/yy1.php?t=1353594050
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 124
-http://sousou2.top/dl/yy1.php?t=1349469149
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 125
-http://sousou2.top/dl/yy1.php?t=31058047
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 126
-*http://sousou2.top/dl/yy1.php?t=1351459730
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 127
-*http://sousou2.top/dl/yy1.php?t=88229675
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 128
-*http://sousou2.top/dl/yy1.php?t=1351433593
-#EXTINF:-1 group-title="電影頻道" tvg-logo="https://www.yyzone.net/template/vfed/asset/img/logo.png" ,YY 129
-http://sousou2.top/dl/yy1.php?t=1351461341  
+
+
+
+
 #EXTM3U
 #EXTINF:-1 group-title="台灣頻道" tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" ,TVBS新聞
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
@@ -2479,6 +2233,8 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="越南頻道" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png" ,K+ 1
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 #EXTM3U
+#EXTINF:-1 group-title="音樂頻道" ,高清經典粵語電視電影演唱會
+https://1gr5dgmttgha1hcj3gczdcpy.ourdvsss.com/d1--cn-gotcha05.bilivideo.com/live-bvc/703718/live_398985206_74200450.flv?expires=1609734490&len=0&oi=3706842163&pt=web&qn=10000&trid=528a8330524a4973a1fc80a19d316a95&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha05&sign=b43231716ab8ef74c86bd9521e6d4496&p2p_type=0&src=8&sl=1&platform=web&pSession=EMjGbP0C-w31i-4y5Q-ycMB-eN5WTCjs9mX3&wsiphost=ipdbme&wshc_tag=0&wsts_tag=5ff28b4a&wsid_tag=dcf1ec33
 #EXTINF:-1 group-title="音樂頻道" ,4K MTV LIVE
 http://line.crystalott.net:80/DIeeVwaUNnZvCop/DA6NCAmvIeeUcnJ/4819
 #EXTINF:-1 group-title="音樂頻道" ,4K MTV
