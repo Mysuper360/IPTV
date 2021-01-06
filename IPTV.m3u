@@ -15,14 +15,16 @@ http://sl.tmtv.me/20201226/ubtl.php?cid=44
 http://sl.tmtv.me/20201226/ubtl.php?cid=401
 #EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="有線Sports Plus 2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png" ,有線Sports Plus 2
 http://sl.tmtv.me/20201226/ubtl.php?cid=356
-#EXTINF:-1 group-title="香港頻道" tvg-logo="https://cdn130.picsart.com/292076939008211.png?type=webp&to=min&r=640" ,有線電影台
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="有線電影台" tvg-logo="https://cdn130.picsart.com/292076939008211.png?type=webp&to=min&r=640" ,有線電影台
 http://sl.tmtv.me/20201226/ubtl.php?cid=354
-#EXTINF:-1 group-title="香港頻道" tvg-id="KAI.HK" tvg-name="開電視" tvg-logo="https://rb.gy/apxvr7" ,香港開電視
+#EXTINF:-1 group-title="香港頻道" tvg-id="KAI.HK" tvg-name="香港開電視" tvg-logo="https://rb.gy/apxvr7" ,香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-name="Now直播台" tvg-logo="https://rb.gy/kshrvf" ,Now直播台
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="Now直播台" tvg-logo="https://rb.gy/kshrvf" ,Now直播台
 http://livetv.dnsfor.me/channel.3.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-name="Now新聞台" tvg-logo="https://rb.gy/p0eiwo" ,Now新聞台
+#EXTINF:-1 group-title="香港頻道" tvg-id="NOW.HK" tvg-name="Now新聞台" tvg-logo="https://rb.gy/p0eiwo" ,Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="Now財經台" tvg-logo="https://rb.gy/wdziqz" ,Now財經台
+http://hktv.ga/live/nowfin.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="NOP.HK" tvg-name="Now Sports 精選" tvg-logo="http://epg.cms.now-tv.com/iphone/channelLogo/ch630.pnghttps://rb.gy/8cpcyd" ,Now Sports 精選
 http://teslagram.com/live/channel_630.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-name="Now爆谷台" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" ,Now爆谷台
@@ -31,20 +33,20 @@ http://sl.tmtv.me/20201226/ubtl.php?cid=152
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 group-title="香港頻道" tvg-id="V96.HK" tvg-name="ViuTV 6" tvg-logo="https://rb.gy/po9v07" ,ViuTV 6
 http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 group-title="香港頻道" tvg-name="港台電視31" tvg-logo="https://rb.gy/pqjvze" ,港台電視31
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="港台電視31" tvg-logo="https://rb.gy/pqjvze" ,港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-name="港台電視32" tvg-logo="https://rb.gy/jacmtb" ,港台電視32
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="港台電視32" tvg-logo="https://rb.gy/jacmtb" ,港台電視32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-name="港台電視33" audio-track="eng" tvg-logo="https://rb.gy/0rw9zh" ,港台電視33
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="港台電視33" audio-track="eng" tvg-logo="https://rb.gy/0rw9zh" ,港台電視33
 
-#EXTINF:-1 group-title="香港頻道" tvg-name="港台電視新聞直播" tvg-logo="https://rb.gy/8vzhqs" ,港台電視新聞直播
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="港台電視新聞直播" tvg-logo="https://rb.gy/8vzhqs" ,港台電視新聞直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="WXX.HK" tvg-name="無線新聞" tvg-logo="https://rb.gy/vpbeyy" ,無綫新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="WXC.HK" tvg-name="無線財經" tvg-logo="https://rb.gy/fwgmsk" ,無綫財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="FC2.HK" tvg-name="翡翠J2台" tvg-logo="https://rb.gy/cawsmu" ,J2台
-http://61.238.6.49:8001/bysid/82.mpeg
+http://sl.tmtv.me/20201226/ubtl.php?cid=392
 #EXTINF:-1 group-title="香港頻道" tvg-id="FCT.HK" tvg-name="翡翠台" tvg-logo="https://rb.gy/x4jaqz" ,翡翠台
 http://sl.tmtv.me/20201226/ubtl.php?cid=30
 #EXTINF:-1 group-title="香港頻道" tvg-id="MZT.HK" tvg-name="明珠台" tvg-logo="https://rb.gy/khz3hv" ,明珠台
@@ -55,19 +57,19 @@ http://sl.tmtv.me/20201226/ubtl.php?cid=1079
 http://sl.tmtv.me/20201226/ubtl.php?cid=1083
 #EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="TVB華麗台" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Astro_wah_lai_toi.png/revision/latest/scale-to-width-down/600?cb=20181121061314" ,TVB華麗台
 http://sl.tmtv.me/20201226/ubtl.php?cid=1084
-#EXTINF:-1 group-title="香港頻道" tvg-logo="https://rb.gy/3yanoy" ,C+頻道
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-logo="https://rb.gy/3yanoy" ,C+頻道
 http://live-hwcdn-drm.utvlive.top/live/aeeece42db6f4e7e8c332bae1ab9edf4/c95d1f3411ef425087cc48da03719c08.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-name="耀才財經台" tvg-logo="https://rb.gy/kjnpq5" ,耀才財經台
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="耀才財經台" tvg-logo="https://rb.gy/kjnpq5" ,耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="FHJ.CN" tvg-name="鳳凰資訊" tvg-logo="https://rb.gy/pmlf2f" ,鳳凰衛視資訊台
 http://livetv.dnsfor.me/channel.21.m3u8
 #EXTINF:-1 group-title="香港頻道" tvg-id="FHX.CN" tvg-name="鳳凰香港" tvg-logo="https://rb.gy/b2c2vr" ,鳳凰衛視香港台
 http://livetv.dnsfor.me/channel.16.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-name="ATV香港追擊搜" tvg-logo="https://rb.gy/po7oqt" ,ATV香港追擊搜
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="ATV香港追擊搜" tvg-logo="https://rb.gy/po7oqt" ,ATV香港追擊搜
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-name="鳳凰中文" tvg-logo="https://rb.gy/xdxgr1" ,鳳凰衛視中文台
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-name="鳳凰中文" tvg-logo="https://rb.gy/xdxgr1" ,鳳凰衛視中文台
 http://live-hwcdn.utvlive.top/live/551a1a8c3aca46708fd285217be3c96e/4538203d786e4803bac20e36392cffd9-1.m3u8
-#EXTINF:-1 group-title="香港頻道" tvg-logo="https://rb.gy/opr7sq" ,創世電視
+#EXTINF:-1 group-title="香港頻道" tvg-id="" tvg-logo="https://rb.gy/opr7sq" ,創世電視
 https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 #EXTM3U
 #EXTINF:-1 group-title="澳門頻道" tvg-logo="https://rb.gy/by4mta" ,澳視澳門
@@ -104,10 +106,9 @@ http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
 http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
 #EXTINF:-1 group-title="澳門頻道" tvg-logo="https://rb.gy/cypcpd" ,Lotus Macau
 http://103.130.186.138:8800/oxygenplay/lotusmacau/index.m3u8
-
 #EXTM3U
 #EXTINF:-1 group-title="電影頻道" tvg-name="Now爆谷台" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" ,Now爆谷台
-https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
+http://sl.tmtv.me/20201226/ubtl.php?cid=152
 #EXTINF:-1 group-title="電影頻道" tvg-logo="https://cdn130.picsart.com/292076939008211.png?type=webp&to=min&r=640" ,有線電影台
 http://sl.tmtv.me/20201226/ubtl.php?cid=354
 #EXTINF:-1 group-title="電影頻道" tvg-logo="https://rb.gy/lee1ed",粵語殘片
@@ -385,7 +386,6 @@ http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_
 #EXTINF:-1 group-title="台灣頻道" tvg-id="" tvg-logo="https://static.epg.best/us/HopeChannel.us.png" ,希望電視
 http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1200_av-p.m3u8
 
-
 #EXTM3U 
 #EXTINF:-1 group-title="日本頻道" tvg-id="N24.JP" tvg-logo="https://startpoint.jp/wp-content/uploads/fb.jpg" ,日テレNEWS24
 https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
@@ -479,7 +479,7 @@ https://cdn.jpth10.jpnettv.live/jptv/jfox/playlist.m3u8?
 http://193.42.99.130:23455/3640/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="J Sports 2 JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/f3235c28a0ce4bb5518ebfbdf124b9b4.png" ,J SPORTS 2
 http://193.42.99.130:23455/3650/playlist.m3u8
-#EXTINF:-1 group-title="日本頻道" tvg-name="J Sports 3 JP tvg-logo=" ,J SPORTS 3
+#EXTINF:-1 group-title="日本頻道" tvg-name="J Sports 3 JP tvg-logo="https://cdn.mydhtv.com/channels/thumbs/45c18829d0b766a0a369ad354eb95f4a.png" ,J SPORTS 3
 http://193.42.99.130:23455/3660/playlist.m3u8
 #EXTINF:-1 group-title="日本頻道" tvg-name="J Sports 4 JP" tvg-logo="https://cdn.mydhtv.com/channels/thumbs/e874f6c8faf990805858a9bdd8adc6f2.png" ,J SPORTS 4
 http://193.42.99.130:23455/3670/playlist.m3u8
